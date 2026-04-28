@@ -14,4 +14,4 @@ Responsive landing page built using HTML, CSS, and Bootstrap.
 - Bootstrap 5
 
 ## Live Demo
-(Add your deployed link here)
+https://JB9948.github.io/egov-landing-page/
